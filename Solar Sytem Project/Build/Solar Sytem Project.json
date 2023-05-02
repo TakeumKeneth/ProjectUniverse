@@ -1,0 +1,11 @@
+{
+"companyName": "DarkScreen Games",
+"productName": "Solar system Project",
+"dataUrl": "Solar Sytem Project.data.unityweb",
+"asmCodeUrl": "Solar Sytem Project.asm.code.unityweb",
+"asmMemoryUrl": "Solar Sytem Project.asm.memory.unityweb",
+"asmFrameworkUrl": "Solar Sytem Project.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
